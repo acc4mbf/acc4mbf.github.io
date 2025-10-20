@@ -1448,7 +1448,7 @@ summary {
 }
 #ie5f-2-2 {
     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0) 40%, black 100%),
-        "./ressources/mbf_bild1.jpg";
+        url("../ressources/mbf_bild1.jpg");
     background-position:
         0px 0px,
         0px 0px;
@@ -2604,7 +2604,7 @@ summary {
     align-items: center;
 }
 #it33ag-2 {
-    background-image: "./ressources/website_smb_logo.png";
+    background-image: url("../ressources/website_smb_logo.png");
     background-size: contain;
     background-position: center center;
     background-attachment: scroll;
@@ -5466,7 +5466,7 @@ summary {
     flex: 1 1 0%;
 }
 #iaqrwjg {
-    background-image: "./ressources/start_hintergrund1.jpg";
+    background-image: url("../ressources/start_hintergrund1.jpg");
     background-position: 0px 0px;
     background-size: auto auto;
     background-repeat: repeat;
@@ -5475,7 +5475,7 @@ summary {
     display: none;
 }
 #i3b1hz1 {
-    background-image: "./ressources/start_hintergrund1.jpg";
+    background-image: url("../ressources/start_hintergrund1.jpg");
     background-size: contain;
     background-position: center center;
     background-attachment: scroll;
@@ -5493,7 +5493,7 @@ summary {
 #iqjv8ap {
     height: 70vh;
     width: 100%;
-    background-image: "./ressources/start_hintergrund1.jpg";
+    background-image: url("../ressources/start_hintergrund1.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -5540,7 +5540,7 @@ summary {
     align-items: center;
     height: 70vh;
     width: 100%;
-    background-image: "./ressources/start_hintergrund1.jpg";
+    background-image: url("../ressources/start_hintergrund1.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -8338,7 +8338,7 @@ summary {
 }
 #ie5f-2-3 {
     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0) 40%, black 100%),
-        "./ressources/mbf_bild1.jpg";
+        url("../ressources/mbf_bild1.jpg");
     background-position:
         0px 0px,
         0px 0px;
@@ -9487,7 +9487,7 @@ summary {
     align-items: center;
 }
 #it33ag-3 {
-    background-image: "./ressources/website_smb_logo.png";
+    background-image: url("../ressources/website_smb_logo.png");
     background-size: contain;
     background-position: center center;
     background-attachment: scroll;
@@ -13912,7 +13912,7 @@ summary {
         flex-wrap: wrap;
     }
     #ie5f-2-2 {
-        background-image: "./ressources/website_smb_logo.png";
+        background-image: url("../ressources/website_smb_logo.png");
         background-position: 0px 0px;
         background-size: 200% 100%;
         background-repeat: no-repeat;
@@ -14174,14 +14174,14 @@ summary {
         flex-wrap: wrap;
     }
     #i3b1hz1 {
-        background-image: "./ressources/start_hintergrund1.jpg";
+        background-image: url("../ressources/start_hintergrund1.jpg");
         background-size: contain;
         background-position: center center;
         background-attachment: scroll;
         background-repeat: no-repeat;
     }
     #it33ag-2 {
-        background-image: "./ressources/website_smb_logo.png";
+        background-image: url("../ressources/website_smb_logo.png");
         background-size: contain;
         background-position: center center;
         background-attachment: scroll;
@@ -14264,7 +14264,7 @@ summary {
         width: 80%;
     }
     #ie5f-2-3 {
-        background-image: "./ressources/start_hintergrund1.jpg"
+        background-image: url("../ressources/start_hintergrund1.jpg");
         background-position: 0px 0px;
         background-size: 200% 100%;
         background-repeat: no-repeat;
@@ -14341,7 +14341,7 @@ summary {
         align-items: center;
     }
     #it33ag-3 {
-        background-image: "./ressources/website_smb_logo.png";
+        background-image: url("../ressources/website_smb_logo.png");
         background-size: contain;
         background-position: center center;
         background-attachment: scroll;
@@ -15648,7 +15648,7 @@ summary {
         max-width: 200px;
     }
     #it33ag-2 {
-        background-image: "./ressources/website_smb_logo.png";
+        background-image: url("../ressources/website_smb_logo.png");
         background-size: contain;
         background-position: center center;
         background-attachment: scroll;
@@ -16028,7 +16028,7 @@ summary {
         flex-direction: row-reverse;
     }
     #ie5f-2-2 {
-        background-image: "./ressources/mbf_bild1.jpg";
+        background-image: url("../ressources/mbf_bild1.jpg");
         background-position: 0px 0px;
         background-size: 200% 100%;
         background-repeat: no-repeat;
@@ -16065,7 +16065,7 @@ summary {
         gap: 10px;
     }
     #ivxhwno {
-        background-image: "./ressources/mbf_bild1.jpg";
+        background-image: url("../ressources/mbf_bild1.jpg");
         background-position: 0px 0px;
         background-size: 100% 100%;
         background-repeat: no-repeat;
@@ -16075,7 +16075,7 @@ summary {
     #i3b1hz1 {
         height: 100%;
         width: 100%;
-        background-image: "./ressources/start_hintergrund1.jpg";
+        background-image: url("../ressources/start_hintergrund1.jpg");
         background-size: contain;
         background-position: center center;
         background-attachment: scroll;
@@ -16370,7 +16370,7 @@ summary {
         max-width: 200px;
     }
     #it33ag-3 {
-        background-image: "./ressources/website_smb_logo.png";
+        background-image: url("../ressources/website_smb_logo.png");
         background-size: contain;
         background-position: center center;
         background-attachment: scroll;
