@@ -1448,7 +1448,7 @@ summary {
 }
 #ie5f-2-2 {
     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0) 40%, black 100%),
-        url("https://cdn.grapesjs.com/workspaces/cmgv9r80907so13ns1uy8emzk/assets/60ff3ac4-c3ab-454a-aced-9ba102ede244__mbfbild1.jpg");
+        "./ressources/mbf_bild1.jpg";
     background-position:
         0px 0px,
         0px 0px;
@@ -2604,7 +2604,7 @@ summary {
     align-items: center;
 }
 #it33ag-2 {
-    background-image: url("https://cdn.grapesjs.com/workspaces/cmgv9r80907so13ns1uy8emzk/assets/051a8de3-cac0-40e5-b776-3f04df17eb2c__websitesmblogo.png");
+    background-image: "./ressources/website_smb_logo.png";
     background-size: contain;
     background-position: center center;
     background-attachment: scroll;
@@ -4554,8 +4554,7 @@ summary {
     gap: 30px;
 }
 #isy63c-2 {
-    background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.16) 10%, rgba(0, 0, 0, 1) 90%),
-        url("https://cdn.grapesjs.com/workspaces/cmc4xkttt0df99wj7woejj4g8/assets/2fb36be5-e20c-4f54-9386-d102f75f08f1__racing-footer.webp");
+    background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.16) 10%, rgba(0, 0, 0, 1) 90%);
     background-position:
         0px 0px,
         0px 0px;
@@ -5467,7 +5466,7 @@ summary {
     flex: 1 1 0%;
 }
 #iaqrwjg {
-    background-image: url("https://cdn.grapesjs.com/workspaces/cmgv9r80907so13ns1uy8emzk/assets/9a69e6b1-2b2f-4f76-8c10-ed906b702b9f__starthintergrund1.jpg");
+    background-image: "./ressources/start_hintergrund1.jpg";
     background-position: 0px 0px;
     background-size: auto auto;
     background-repeat: repeat;
@@ -5476,7 +5475,7 @@ summary {
     display: none;
 }
 #i3b1hz1 {
-    background-image: url("https://cdn.grapesjs.com/workspaces/cmgv9r80907so13ns1uy8emzk/assets/9a69e6b1-2b2f-4f76-8c10-ed906b702b9f__starthintergrund1.jpg");
+    background-image: "./ressources/start_hintergrund1.jpg";
     background-size: contain;
     background-position: center center;
     background-attachment: scroll;
@@ -5494,7 +5493,7 @@ summary {
 #iqjv8ap {
     height: 70vh;
     width: 100%;
-    background-image: url("https://cdn.grapesjs.com/workspaces/cmgv9r80907so13ns1uy8emzk/assets/9a69e6b1-2b2f-4f76-8c10-ed906b702b9f__starthintergrund1.jpg");
+    background-image: "./ressources/start_hintergrund1.jpg";
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -5541,7 +5540,7 @@ summary {
     align-items: center;
     height: 70vh;
     width: 100%;
-    background-image: url("https://cdn.grapesjs.com/workspaces/cmgv9r80907so13ns1uy8emzk/assets/9a69e6b1-2b2f-4f76-8c10-ed906b702b9f__starthintergrund1.jpg");
+    background-image: "./ressources/start_hintergrund1.jpg";
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -8339,7 +8338,7 @@ summary {
 }
 #ie5f-2-3 {
     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0) 40%, black 100%),
-        url("https://cdn.grapesjs.com/workspaces/cmgv9r80907so13ns1uy8emzk/assets/60ff3ac4-c3ab-454a-aced-9ba102ede244__mbfbild1.jpg");
+        "./ressources/mbf_bild1.jpg";
     background-position:
         0px 0px,
         0px 0px;
@@ -9488,7 +9487,7 @@ summary {
     align-items: center;
 }
 #it33ag-3 {
-    background-image: url("https://cdn.grapesjs.com/workspaces/cmgv9r80907so13ns1uy8emzk/assets/051a8de3-cac0-40e5-b776-3f04df17eb2c__websitesmblogo.png");
+    background-image: "./ressources/website_smb_logo.png";
     background-size: contain;
     background-position: center center;
     background-attachment: scroll;
@@ -11434,8 +11433,7 @@ summary {
     gap: 30px;
 }
 #isy63c-3 {
-    background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.16) 10%, rgba(0, 0, 0, 1) 90%),
-        url("https://cdn.grapesjs.com/workspaces/cmc4xkttt0df99wj7woejj4g8/assets/2fb36be5-e20c-4f54-9386-d102f75f08f1__racing-footer.webp");
+    background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.16) 10%, rgba(0, 0, 0, 1) 90%);
     background-position:
         0px 0px,
         0px 0px;
@@ -13914,7 +13912,7 @@ summary {
         flex-wrap: wrap;
     }
     #ie5f-2-2 {
-        background-image: url("https://cdn.grapesjs.com/workspaces/cmc4xkttt0df99wj7woejj4g8/assets/5800dea2-8bcb-42df-8fd8-64eac49bf9a8__group-10-1.png");
+        background-image: "./ressources/website_smb_logo.png";
         background-position: 0px 0px;
         background-size: 200% 100%;
         background-repeat: no-repeat;
@@ -14176,14 +14174,14 @@ summary {
         flex-wrap: wrap;
     }
     #i3b1hz1 {
-        background-image: url("https://cdn.grapesjs.com/workspaces/cmgv9r80907so13ns1uy8emzk/assets/9a69e6b1-2b2f-4f76-8c10-ed906b702b9f__starthintergrund1.jpg");
+        background-image: "./ressources/start_hintergrund1.jpg";
         background-size: contain;
         background-position: center center;
         background-attachment: scroll;
         background-repeat: no-repeat;
     }
     #it33ag-2 {
-        background-image: url("https://cdn.grapesjs.com/workspaces/cmgv9r80907so13ns1uy8emzk/assets/051a8de3-cac0-40e5-b776-3f04df17eb2c__websitesmblogo.png");
+        background-image: "./ressources/website_smb_logo.png";
         background-size: contain;
         background-position: center center;
         background-attachment: scroll;
@@ -14266,7 +14264,7 @@ summary {
         width: 80%;
     }
     #ie5f-2-3 {
-        background-image: url("https://cdn.grapesjs.com/workspaces/cmc4xkttt0df99wj7woejj4g8/assets/5800dea2-8bcb-42df-8fd8-64eac49bf9a8__group-10-1.png");
+        background-image: "./ressources/start_hintergrund1.jpg"
         background-position: 0px 0px;
         background-size: 200% 100%;
         background-repeat: no-repeat;
@@ -14343,7 +14341,7 @@ summary {
         align-items: center;
     }
     #it33ag-3 {
-        background-image: url("https://cdn.grapesjs.com/workspaces/cmgv9r80907so13ns1uy8emzk/assets/051a8de3-cac0-40e5-b776-3f04df17eb2c__websitesmblogo.png");
+        background-image: "./ressources/website_smb_logo.png";
         background-size: contain;
         background-position: center center;
         background-attachment: scroll;
@@ -15650,7 +15648,7 @@ summary {
         max-width: 200px;
     }
     #it33ag-2 {
-        background-image: url("https://cdn.grapesjs.com/workspaces/cmgv9r80907so13ns1uy8emzk/assets/051a8de3-cac0-40e5-b776-3f04df17eb2c__websitesmblogo.png");
+        background-image: "./ressources/website_smb_logo.png";
         background-size: contain;
         background-position: center center;
         background-attachment: scroll;
@@ -16030,7 +16028,7 @@ summary {
         flex-direction: row-reverse;
     }
     #ie5f-2-2 {
-        background-image: url("https://cdn.grapesjs.com/workspaces/cmgv9r80907so13ns1uy8emzk/assets/60ff3ac4-c3ab-454a-aced-9ba102ede244__mbfbild1.jpg");
+        background-image: "./ressources/mbf_bild1.jpg";
         background-position: 0px 0px;
         background-size: 200% 100%;
         background-repeat: no-repeat;
@@ -16067,7 +16065,7 @@ summary {
         gap: 10px;
     }
     #ivxhwno {
-        background-image: url("https://cdn.grapesjs.com/workspaces/cmgv9r80907so13ns1uy8emzk/assets/60ff3ac4-c3ab-454a-aced-9ba102ede244__mbfbild1.jpg");
+        background-image: "./ressources/mbf_bild1.jpg";
         background-position: 0px 0px;
         background-size: 100% 100%;
         background-repeat: no-repeat;
@@ -16077,7 +16075,7 @@ summary {
     #i3b1hz1 {
         height: 100%;
         width: 100%;
-        background-image: url("https://cdn.grapesjs.com/workspaces/cmgv9r80907so13ns1uy8emzk/assets/9a69e6b1-2b2f-4f76-8c10-ed906b702b9f__starthintergrund1.jpg");
+        background-image: "./ressources/start_hintergrund1.jpg";
         background-size: contain;
         background-position: center center;
         background-attachment: scroll;
@@ -16372,7 +16370,7 @@ summary {
         max-width: 200px;
     }
     #it33ag-3 {
-        background-image: url("https://cdn.grapesjs.com/workspaces/cmgv9r80907so13ns1uy8emzk/assets/051a8de3-cac0-40e5-b776-3f04df17eb2c__websitesmblogo.png");
+        background-image: "./ressources/website_smb_logo.png";
         background-size: contain;
         background-position: center center;
         background-attachment: scroll;
